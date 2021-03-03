@@ -4,8 +4,8 @@
   "private": true,
   "dependencies": {
     "lodash": "^4.17.21",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react": "^17.0.0-rc.3",
+    "react-dom": "^17.0.0-rc.3",
     "react-scripts": "^3.4.3",
     "tachyons": "^4.12.0"
   },
